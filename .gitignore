@@ -1,5 +1,25 @@
 
 # 以'#'开始的行，被视为注释.                                                                                                                          
-build
-*.iml
+*.DS_Store  
 
+
+# Gradle files  
+build/  
+.gradle/  
+*/build/  
+
+*.iml
+.idea/.name  
+.idea/encodings.xml  
+.idea/inspectionProfiles/Project_Default.xml  
+.idea/inspectionProfiles/profiles_settings.xml  
+.idea/misc.xml  
+.idea/modules.xml  
+.idea/scopes/scope_settings.xml  
+.idea/vcs.xml  
+.idea/workspace.xml  
+.idea/libraries 
+
+*.apk  
+*.ap_   
+*.dex
